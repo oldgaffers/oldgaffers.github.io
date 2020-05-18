@@ -3,7 +3,7 @@
 ## Frequently Asked Questions
 
 |         | Question           | Answer  |
-| ------------- |-------------:| -----|
+| ------------- |:-------------:|:-----:|
 | 1      | How do I get my boat onto the register | Fill in the form [here](https://form.jotform.com/jfbcable/new-boat) |
 |  2       | How do I sell my boat      | For now, send us an email, we are working on a new form just for that |
 |  3 | How do I link to my boat from Facebook      | we are working on this - check back soon |
