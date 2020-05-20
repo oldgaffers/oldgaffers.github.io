@@ -29,7 +29,7 @@ Believe it or not, the role of Boat Register Editor is actually written down. He
 - Cooperation with organisations who could assist with the development of the register by supply of information and effort.
 
 ## Publicity
-- Dialogue with magazines, clubs and organisations with a view to establishing the reputation of the register as the only such source in the world.
+- Engage with magazines, clubs and organisations to enhance the prominence and reputation of the OGA.
 
 If this sounds like a lot of work, it is. But it's extremely rewarding and we'd love to have help.
 
