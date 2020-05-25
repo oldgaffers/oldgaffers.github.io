@@ -48,8 +48,22 @@ One great benefit of this approach is the very fine-grained access control suppo
 
 ### The User Front end
 
-The user front-end is a React single page application hosted on Github Pages. It is accessed as an iframe withing the main OGA site which has some significant disadvantages.
+The user front-end is a React single page application hosted on Github Pages. It is accessed as an iframe withing the main OGA site which currently has some significant disadvantages.
 
-### The Editor Frontend
+### Data Entry and editing
 
-We haven't done this yet.
+Data entry for new boats uses a https://eu.jotform.com Form. Jotform has a great API which allows the drop-down picklists to be updated from the database as we add new designers.
+
+The same form can be used by editors to update boat entries. This works because Jotform supports pre-populating a form with existing values.
+
+When the form is linked to from the main boat browsing page it is unpopulated. When it is linked to from a boat's page it gets populated with the current data from the boat. This includes hidden fields containing the OGA Number and database UUID for the boat.
+
+When the form is submitted a work flow is triggered.
+
+### Contact buttons
+
+TODO
+
+### Work Flows
+
+Work flows are hosted on https://pipedream.com in the ogauk account which uses a federated login from the oldgaffers GitHub account.
