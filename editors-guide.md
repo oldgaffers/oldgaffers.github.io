@@ -36,3 +36,22 @@ Boats are updated by clicking on the add data button on the boat detail page. Th
 
 it is possible in future that when a logged in editor uses the update process the changes will automatically be committed to the database without the email approval process.
 
+## Using the image gallery
+
+TODO
+
+## Ownership data
+
+TODO
+
+## Adding Builders and Designers
+
+TODO
+
+## Fleets
+
+TODO
+
+## Updating the pick-lists
+
+This is done in the Hasura console at https://api-oga.herokuapp.com
