@@ -10,6 +10,8 @@ Believe it or not, the role of Boat Register Editor is actually written down. He
 - Replying to requests for more information on boats on our register.
 - Accepting requests by members to sell their boats
 
+There is a [user guide](editors-guide.html) for editors
+
 ## Other Regular Work
 
 - Writing a report for each Gaffers Log
@@ -18,7 +20,7 @@ Believe it or not, the role of Boat Register Editor is actually written down. He
   - The boats regularly attending their events.
   - Boat data, especially measurements for handicap calculation.
 - Calculating handicaps for racing.
-- Calculating handicaps for the Island Sailing Club for their Round the Island Race.7.
+- Calculating handicaps for the Island Sailing Club for their Round the Island Race.
 - Going through the old paper records and updating data on boats
 
 ## Development of the Register
