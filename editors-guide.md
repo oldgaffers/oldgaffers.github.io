@@ -9,7 +9,7 @@ pictures for a boat but nothing is committed to the register until an editor has
 
 ## Adding a boat
 
-New boat's are added by clicking on the link on the boat browser. This opens up a form (on Jotform.com)
+New boats are added by clicking on the link on the boat browser. This opens up a form (on Jotform.com)
 which takes the user step through the process.
 
 When a boat form is submitted an email to the boat register editors with three buttons:
