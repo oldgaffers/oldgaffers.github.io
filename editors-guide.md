@@ -18,11 +18,21 @@ When a boat form is submitted an email is sent to the boat register editors with
   + a button to edit the data before creating a new entry
   + a button to merge this data with an existing registry entry (this isn't implemented yet)
 
-Pressing the first button creates a new entry in the register. If the form contains pictures a new SmugMug gallery is
-automatically created and the pictures are uploaded to it.
+Pressing the commit button creates a new entry in the register. If the form contains pictures a new SmugMug gallery is
+automatically created and the pictures are uploaded to it. Editors may want to crop and/or straighten these pictures. N.B. we will need editors to authenticate as the link could get lost and abused.
 
-Pressing the second button launches the form again with the data populated from the previous submission and
+Pressing the edit button launches the form again with the data populated from the previous submission and
 allows the editor to make changes to the data. Submitting the form sends another email to the editor who
 is then likely to use the first button.
 
+Pressing the merge button will do one of two things - we haven't decided yet:
+
+  1. open up a version of the form which lets the editor pick a boat to merge the data with and steps through allowing the editor to chose the current or proposed data or to merge and edit text fields.
+  1. send an email back to the person who submitted the form asking them to re-submit the data using the update process and suggesting a boat to update.
+
 ## Updating a boat
+
+Boats are updated by clicking on the add data button on the boat detail page. This opens up the same form as the new boat process but with the fields filled in with the current data. The remaining process is the same.
+
+it is possible in future that when a logged in editor uses the update process the changes will automatically be committed to the database without the email approval process.
+
