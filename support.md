@@ -3,14 +3,14 @@
 ## Frequently Asked Questions
 
 1.   My boat was on the old register but I can't see it here
-    + We hide boats without pictures by default. Click the 'include boats without pictures' switch and it should appear
-    + While you are there, send us a picture!
-1.   How do I get my boat onto the register
-    + Fill in the form [here](https://form.jotform.com/jfbcable/new-boat)
-1.   How do I sell my boat
-    + For now, send us an email, we are working on a new form just for that 
-1.   How do I link to my boat from Facebook
-    + we are working on this - check back soon
+    +    We hide boats without pictures by default. Click the 'include boats without pictures' switch and it should appear
+    +    While you are there, send us a picture!
+1.   How do I get my boat onto the register?
+    +    Fill in the form [here](https://form.jotform.com/jfbcable/new-boat)
+1.   How do I sell my boat?
+    +    For now, send us an email, we are working on a new form just for that 
+1.   How do I link to my boat from Facebook?
+    +    we are working on this - check back soon
 
 ## Need Help with your boat register entry?
 
