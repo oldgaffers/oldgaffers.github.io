@@ -1,11 +1,11 @@
-# Support
-
 ## Frequently Asked Questions
 
 1. My boat was on the old register but I can't see it here
     + We hide boats without pictures by default. Click the 'include boats without pictures' switch and it should appear
     + While you are there, send us a picture!
-    
+1. Where did the 'for sale' section go?
+    + it's now part of the main boat register. Click 'only for sale' switch to see just the boats owners have put up for sale.
+    + You can sort by price or most recently updated or filter for just that steel ketch you always wanted.
 1. How do I get my boat onto the register?
     + Fill in the form [here](https://form.jotform.com/jfbcable/new-boat)
 1. How do I sell my boat?
